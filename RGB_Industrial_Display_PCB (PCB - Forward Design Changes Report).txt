@@ -1,0 +1,19 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Sunday, December 13, 2020
+Project Path:       C:\Users\Git\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.prj
+Design Path:        C:\Users\Git\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb
+Design Title:       
+Created:            12/13/2020 8:19:33 PM
+Last Saved:         12/13/2020 11:08:55 PM
+Editing Time:       176 min
+Units:              mm (precision 2)
+
+Added component reference "C6" of component "C1206C104K5RAC", package "CAPC3216X88N".
+
+Connected pin "C6.1" to net "3.3v".
+Connected pin "C6.2" to net "GND".
+
+
+End Of Report.
