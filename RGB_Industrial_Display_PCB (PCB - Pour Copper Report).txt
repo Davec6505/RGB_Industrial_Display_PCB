@@ -1,14 +1,15 @@
 Pour Copper Report
 ------------------
 
-Report Written:     Sunday, December 13, 2020
+Report Written:     Monday, December 14, 2020
 Project Path:       C:\Users\Git\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.prj
 Design Path:        C:\Users\Git\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/13/2020 10:44:36 PM
-Editing Time:       150 min
+Last Saved:         12/14/2020 10:58:00 PM
+Editing Time:       325 min
 Units:              mm (precision 2)
 
+C5.2 at 481.80,479.70 on layer Top Copper has no thermal spokes
 
 End Of Report.
