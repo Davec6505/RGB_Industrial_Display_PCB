@@ -1,19 +1,18 @@
 Forward Design Changes Report
 -----------------------------
 
-Report Written:     Monday, December 14, 2020
+Report Written:     Tuesday, December 15, 2020
 Project Path:       C:\Users\Git\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.prj
 Design Path:        C:\Users\Git\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/14/2020 9:57:27 PM
-Editing Time:       282 min
+Last Saved:         12/15/2020 10:57:59 PM
+Editing Time:       509 min
 Units:              mm (precision 2)
 
-Added component reference "D2" of component "1N4007_SMD", package "DIOM5027X262N".
-
-Connected pin "D2.1" to net "5v".
-Connected pin "D2.2" to net "3.3v".
+Connected pin "J2.5" to net "R2".
+Connected pin "J2.6" to net "G2".
+Connected pin "J2.7" to net "B2".
 
 
 End Of Report.
