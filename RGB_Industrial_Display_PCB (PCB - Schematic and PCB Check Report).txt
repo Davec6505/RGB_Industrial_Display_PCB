@@ -1,13 +1,13 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     Tuesday, December 15, 2020
+Report Written:     Wednesday, December 16, 2020
 Project Path:       C:\Users\Git\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.prj
 Design Path:        C:\Users\Git\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/15/2020 10:57:59 PM
-Editing Time:       509 min
+Last Saved:         12/16/2020 11:37:19 PM
+Editing Time:       757 min
 Units:              mm (precision 2)
 
 
