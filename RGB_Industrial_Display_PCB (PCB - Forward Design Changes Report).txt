@@ -1,102 +1,22 @@
 Forward Design Changes Report
 -----------------------------
 
-Report Written:     Sunday, December 20, 2020
+Report Written:     Monday, December 21, 2020
 Project Path:       C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.prj
 Design Path:        C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/20/2020 3:42:54 PM
-Editing Time:       1489 min
+Last Saved:         12/21/2020 11:56:16 AM
+Editing Time:       1760 min
 Units:              mm (precision 2)
 
-Disconnected pin "IC4.28" from net "N0000!EthernetENC28J60!".
+Added component reference "C24" of component "08055C103KATDA", package "C0805".
+Added component reference "C25" of component "08055C104KATDA", package "C0805".
 
-Deleted net "N0000!EthernetENC28J60!".
-
-Added net "tpin-".
-Added net "tpin+".
-Added net "RBIAS".
-Added net "TPOUT-".
-Added net "TPOUT+".
-Added net "N0027!EthernetENC28J60!".
-Added net "N0032!EthernetENC28J60!".
-Added net "LEDA_MODULE".
-Added net "LEDB_MODULE".
-Added net "LEDA_ENC".
-Added net "LEDB_ENC".
-Added net "OSC1_ETH".
-Added net "OSC2_ETH".
-
-Added component reference "J4" of component "2301994-9", package "23019949".
-Added component reference "R9" of component "R 0.1W SMTF 2.7K", package "SM0805".
-Added component reference "R10" of component "R 0.1W SMTF 47", package "SM0805".
-Added component reference "R11" of component "R 0.1W SMTF 47", package "SM0805".
-Added component reference "R12" of component "R 0.1W SMTF 47", package "SM0805".
-Added component reference "R13" of component "R 0.1W SMTF 47", package "SM0805".
-Added component reference "C15" of component "08055C103KATDA", package "C0805".
-Added component reference "C19" of component "08055C103KATDA", package "C0805".
-Added component reference "R14" of component "R 0.1W SMTF 1.0K", package "SM0805".
-Added component reference "R15" of component "R 0.1W SMTF 1.0K", package "SM0805".
-Added component reference "Y2" of component "LFXTAL055474REEL", package "LFXTAL055474REEL".
-Added component reference "C21" of component "08051A220JATDA", package "SM0805".
-Added component reference "C20" of component "08051A220JATDA", package "SM0805".
-
-Connected pin "IC4.12" to net "tpin-".
-Connected pin "IC4.13" to net "tpin+".
-Connected pin "IC4.14" to net "RBIAS".
-Connected pin "IC4.28" to net "3.3MCU".
-Connected pin "IC4.27" to net "LEDA_ENC".
-Connected pin "IC4.26" to net "LEDB_ENC".
-Connected pin "IC4.25" to net "3.3MCU".
-Connected pin "IC4.24" to net "OSC2_ETH".
-Connected pin "IC4.23" to net "OSC1_ETH".
-Connected pin "IC4.22" to net "GND".
-Connected pin "IC4.21" to net "GND".
-Connected pin "IC4.20" to net "3.3MCU".
-Connected pin "IC4.19" to net "3.3MCU".
-Connected pin "IC4.18" to net "GND".
-Connected pin "IC4.17" to net "TPOUT+".
-Connected pin "IC4.16" to net "TPOUT-".
-Connected pin "IC4.15" to net "3.3MCU".
-Connected pin "J4.1" to net "TPOUT+".
-Connected pin "J4.2" to net "TPOUT-".
-Connected pin "J4.3" to net "tpin+".
-Connected pin "J4.4" to net "N0032!EthernetENC28J60!".
-Connected pin "J4.5" to net "N0027!EthernetENC28J60!".
-Connected pin "J4.6" to net "tpin-".
-Connected pin "J4.9" to net "LEDA_MODULE".
-Connected pin "J4.10" to net "GND".
-Connected pin "J4.11" to net "GND".
-Connected pin "J4.12" to net "LEDB_MODULE".
-Connected pin "J4.13" to net "GND".
-Connected pin "J4.14" to net "GND".
-Connected pin "R9.1" to net "GND".
-Connected pin "R9.2" to net "RBIAS".
-Connected pin "R10.1" to net "tpin-".
-Connected pin "R10.2" to net "N0027!EthernetENC28J60!".
-Connected pin "R11.1" to net "tpin+".
-Connected pin "R11.2" to net "N0027!EthernetENC28J60!".
-Connected pin "R12.1" to net "TPOUT+".
-Connected pin "R12.2" to net "N0032!EthernetENC28J60!".
-Connected pin "R13.1" to net "TPOUT-".
-Connected pin "R13.2" to net "N0032!EthernetENC28J60!".
-Connected pin "C15.1" to net "N0027!EthernetENC28J60!".
-Connected pin "C15.2" to net "GND".
-Connected pin "C19.1" to net "N0032!EthernetENC28J60!".
-Connected pin "C19.2" to net "GND".
-Connected pin "R14.1" to net "LEDA_MODULE".
-Connected pin "R14.2" to net "LEDA_ENC".
-Connected pin "R15.1" to net "LEDB_MODULE".
-Connected pin "R15.2" to net "LEDB_ENC".
-Connected pin "Y2.1" to net "OSC1_ETH".
-Connected pin "Y2.2" to net "GND".
-Connected pin "Y2.3" to net "OSC2_ETH".
-Connected pin "Y2.4" to net "GND".
-Connected pin "C21.1" to net "OSC2_ETH".
-Connected pin "C21.2" to net "GND".
-Connected pin "C20.1" to net "OSC1_ETH".
-Connected pin "C20.2" to net "GND".
+Connected pin "C24.1" to net "3.3MCU".
+Connected pin "C24.2" to net "GND".
+Connected pin "C25.1" to net "3.3MCU".
+Connected pin "C25.2" to net "GND".
 
 
 End Of Report.
