@@ -6,8 +6,8 @@ Project Path:       C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Displ
 Design Path:        C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/21/2020 12:06:21 PM
-Editing Time:       1763 min
+Last Saved:         12/21/2020 6:40:13 PM
+Editing Time:       2157 min
 Units:              mm (precision 2)
 
 

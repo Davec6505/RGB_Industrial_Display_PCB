@@ -6,17 +6,19 @@ Project Path:       C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Displ
 Design Path:        C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/21/2020 11:56:16 AM
-Editing Time:       1760 min
+Last Saved:         12/21/2020 6:30:09 PM
+Editing Time:       2155 min
 Units:              mm (precision 2)
 
-Added component reference "C24" of component "08055C103KATDA", package "C0805".
-Added component reference "C25" of component "08055C104KATDA", package "C0805".
+Disconnected pin "FS1.1" from net "VinF".
+Disconnected pin "FS1.2" from net "VIn".
 
-Connected pin "C24.1" to net "3.3MCU".
-Connected pin "C24.2" to net "GND".
-Connected pin "C25.1" to net "3.3MCU".
-Connected pin "C25.2" to net "GND".
+Deleted component reference "FS1".
+
+Added component reference "FS2" of component "3216FF-1A", package "C1206".
+
+Connected pin "FS2.1" to net "VinF".
+Connected pin "FS2.2" to net "VIn".
 
 
 End Of Report.
