@@ -1,13 +1,13 @@
 Plot Report
 -----------
 
-Report Written:     Wednesday, December 23, 2020
+Report Written:     Saturday, December 26, 2020
 Project Path:       C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.prj
 Design Path:        C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb
 Design Title:       
 Created:            12/13/2020 8:19:33 PM
-Last Saved:         12/23/2020 5:24:54 PM
-Editing Time:       4135 min
+Last Saved:         12/26/2020 11:05:13 AM
+Editing Time:       4177 min
 Units:              mm (precision 2)
 
 
@@ -271,6 +271,20 @@ C:\Users\GIT\RGB_Industrial_Display_PCB\Design Gerber\RGB_Industrial_Display_PCB
 Gerber Output
 =============
 
+C:\Users\GIT\RGB_Industrial_Display_PCB\Design Gerber\RGB_Industrial_Display_PCB - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 3.00
+
+Gerber Output
+=============
+
 C:\Users\GIT\RGB_Industrial_Display_PCB\Design Gerber\RGB_Industrial_Display_PCB - Bottom Solder Mask.gbr
 
     Layers:
@@ -279,18 +293,18 @@ C:\Users\GIT\RGB_Industrial_Display_PCB\Design Gerber\RGB_Industrial_Display_PCB
 
     D-Code Shape  (thou)
     ----------------------------------------------
-    D10    Round 66.00
-    D11    Square 100.49
-    D12    Round 100.49
-    D13    Round 76.87
-    D14    Round 65.06
-    D15    Square 61.12
-    D16    Round 61.12
-    D17    Round 66.24
-    D18    Round 69.98
-    D19    Square 66.00
-    D70    Round 53.91
-    D71    Rectangle 66.00 X 86.00  Rotation 90
+    D12    Round 66.00
+    D13    Square 100.49
+    D14    Round 100.49
+    D15    Round 76.87
+    D16    Round 65.06
+    D17    Square 61.12
+    D18    Round 61.12
+    D19    Round 66.24
+    D70    Round 69.98
+    D71    Square 66.00
+    D20    Round 53.91
+    D21    Rectangle 66.00 X 86.00  Rotation 90
 
 NC Drill Output
 ===============
@@ -368,13 +382,13 @@ Drill Ident Drawing
 
     D-Code Shape  (thou)
     -----------------------
-    D20    Round 100.00
-    D21    Round 5.00
+    D10    Round 5.00
+    D22    Round 100.00
 
 Gerber Output
 =============
 
-C:\Users\GIT\RGB_Industrial_Display_PCB\Design Gerber\RGB_Industrial_Display_PCB - Board Outline.gbr
+C:\Users\GIT\RGB_Industrial_Display_PCB\Design Gerber\RGB_Industrial_Display_PCB - OutLine.gbr
 
     Layers:
     ----------------------
@@ -390,37 +404,37 @@ C:\Users\GIT\RGB_Industrial_Display_PCB\Design Gerber\RGB_Industrial_Display_PCB
 
     D-Code Shape  (thou)
     ------------------------------------------------
-    D10    Round 66.00
-    D11    Square 100.49
-    D12    Round 100.49
-    D13    Round 76.87
-    D14    Round 65.06
-    D15    Square 61.12
-    D16    Round 61.12
-    D17    Round 66.24
-    D18    Round 69.98
-    D19    Square 66.00
-    D70    Round 53.91
-    D71    Rectangle 66.00 X 86.00  Rotation 90
-    D21    Round 5.00
-    D22    Round 10.00
-    D23    Round 19.69
-    D24    Round 9.84
-    D25    Round 21.65
-    D26    Round 31.50
-    D27    Round 33.46
-    D28    Round 35.43
-    D29    Round 21.26
-    D72    Round 25.00
-    D73    Round 15.00
-    D74    Round 55.91
-    D75    Rectangle 20.47 X 35.04
-    D76    Rectangle 20.47 X 35.04  Rotation 90
-    D77    Round 196.85
-    D78    Rectangle 18.90 X 35.04
-    D79    Round 27.95
-    D80    Round 60.00
-    D81    Round 3.00
+    D10    Round 5.00
+    D11    Round 3.00
+    D12    Round 66.00
+    D13    Square 100.49
+    D14    Round 100.49
+    D15    Round 76.87
+    D16    Round 65.06
+    D17    Square 61.12
+    D18    Round 61.12
+    D19    Round 66.24
+    D70    Round 69.98
+    D71    Square 66.00
+    D20    Round 53.91
+    D21    Rectangle 66.00 X 86.00  Rotation 90
+    D23    Round 10.00
+    D24    Round 19.69
+    D25    Round 9.84
+    D26    Round 21.65
+    D27    Round 31.50
+    D28    Round 33.46
+    D29    Round 35.43
+    D72    Round 21.26
+    D73    Round 25.00
+    D74    Round 15.00
+    D75    Round 55.91
+    D76    Rectangle 20.47 X 35.04
+    D77    Rectangle 20.47 X 35.04  Rotation 90
+    D78    Round 196.85
+    D79    Rectangle 18.90 X 35.04
+    D80    Round 27.95
+    D81    Round 60.00
     D82    Round 1.00
     D83    Rectangle 25.59 X 60.04  Rotation 90
     D84    Rectangle 31.59 X 66.04  Rotation 90
