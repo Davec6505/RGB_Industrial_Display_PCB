@@ -1,0 +1,77 @@
+Bill of Materials ,,,,,,,
+Project Path:,C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.prj,,,,,,
+Design Path:,C:\Users\GIT\RGB_Industrial_Display_PCB\RGB_Industrial_Display_PCB.pcb,,,,,,
+Design Title:,,,,,,,
+Created:,13/12/2020 20:19,,,,,,
+Last Saved:,31/01/2021 10:25,,,,,,
+Editing Time:,7202 min,,,,,,
+Units:,mm (precision 2),,,,,,
+,,,,,,,
+--------------------------------------------------------------------------,,,,,,,
+,,,,,,,
+Ref Name,Qty,Component,Package,Manufacturer,MPN,RS Part Number,Description
+D3,1,1N4007F,SODFL4626X110N,Shikues,1N4007F,124-6806,Surface Mount General Purpose Silicon Rectifiers
+C3,1,6TPE220MAZB,CAPPM3528X200N,Panasonic,6TPE220MAZB,7955960P,"Panasonic 220uF SMD Solid Polymer Tantalum Capacitor, 6.3 V dc +/-20%, POSCAP Series"
+C4,1,6TPE220MAZB,CAPPM3528X200N,Panasonic,6TPE220MAZB,7955960P,"Panasonic 220uF SMD Solid Polymer Tantalum Capacitor, 6.3 V dc +/-20%, POSCAP Series"
+C1,1,50SVPF68M,CAPAE1030X1270N,Panasonic,50SVPF68M,7955421P,"Panasonic 68uF 50 V dc Polymer Aluminium Electrolytic Capacitor F12, OS-CON Series 5000h 10 x 12.6mm"
+C26,1,50SVPF68M,CAPAE1030X1270N,Panasonic,50SVPF68M,7955421P,"Panasonic 68uF 50 V dc Polymer Aluminium Electrolytic Capacitor F12, OS-CON Series 5000h 10 x 12.6mm"
+C21,1,08051A220JATDA,SM0805,AVX,,648-0935,18pf 50v Multi-Layer Ceramic
+C20,1,08051A220JATDA,SM0805,AVX,,144-2523,18pf 50v Multi-Layer Ceramic
+C2,1,08055C103KATDA,C0805,AVX,,698-3462,10nf 50v Multi-Layer Ceramic
+C9,1,08055C103KATDA,C0805,AVX,,698-3462,10nf 50v Multi-Layer Ceramic
+C7,1,08055C103KATDA,C0805,AVX,,698-3462,10nf 50v Multi-Layer Ceramic
+C11,1,08055C103KATDA,C0805,AVX,,698-3462,10nf 50v Multi-Layer Ceramic
+C17,1,08055C103KATDA,C0805,AVX,,698-3462,10nf 50v Multi-Layer Ceramic
+C15,1,08055C103KATDA,C0805,AVX,,698-3462,10nf 50v Multi-Layer Ceramic
+C19,1,08055C103KATDA,C0805,AVX,,698-3462,10nf 50v Multi-Layer Ceramic
+C24,1,08055C103KATDA,C0805,AVX,,698-3462,10nf 50v Multi-Layer Ceramic
+C12,1,08055C104KATDA,C0805,AVX,,134-9149,"100nf 50v, Multi-Layer Ceramic"
+C5,1,08055C104KATDA,C0805,AVX,,134-9149,"100nf 50v, Multi-Layer Ceramic"
+C8,1,08055C104KATDA,C0805,AVX,,134-9149,"100nf 50v, Multi-Layer Ceramic"
+C10,1,08055C104KATDA,C0805,AVX,,134-9149,"100nf 50v, Multi-Layer Ceramic"
+C14,1,08055C104KATDA,C0805,AVX,,134-9149,"100nf 50v, Multi-Layer Ceramic"
+C25,1,08055C104KATDA,C0805,AVX,,134-9149,"100nf 50v, Multi-Layer Ceramic"
+C27,1,08055C104KATDA,C0805,AVX,,134-9149,"100nf 50v, Multi-Layer Ceramic"
+C22,1,08055C222KATDA,C0805,AVX,,698-3462,"18pf 50v, Multi-Layer Ceramic"
+C23,1,08055C222KATDA,C0805,AVX,,698-3462,"18pf 50v, Multi-Layer Ceramic"
+J1,1,1869237,SHDR4W100P0X508_1X4_2132X1200X,Phoenix Contact,1869237,790-1076,"SMKDSN 1,5/4-5.08 4way 5.08mm Phoenix Contact COMBICON SMKDSN Series 5.08mm Pitch Straight PCB Terminal Block with Screw Termination, Through Hole"
+ETH,1,2301994-9,23019949,TE Connectivity,2301994-9,144-3327,"TE Connectivity Cat6 RJ45 Modular Jack Socket, Nickel Plated Brass, Right Angle, PCB Mount 2031994"
+RGB,1,61201621721,61201621721,Wurth Elektronik,61201621721,7718367,"Wurth Elektronik WR-BHD, 2.54mm Pitch, 16 Way, 2 Row, Right Angle PCB Header, Through Hole"
+Y3,1,ABM3B-8.000MHZ-10-1-U-T,ABM3B,ABRACON,ABM3B-8.000MHZ-10-1-U-T,171-2700,"Abracon 8MHz Crystal +/-10ppm 4-SMD, No Lead 5 x 3 x 1.1mm"
+Y1,1,ABM3B-25.000MHZ-10-1-U-T,ABM3B,ABRACON,ABM3B-25.000MHZ-10-1-U-T,171-0627,25MHz Crystal +/-10ppm SMD 5 x 3 x 1.1mm
+FL1,1,BLM21BB050SH1D_250_100Mhz_0805,BLM21BB050SH1D,Murata Electronics,BLM21BD102SN1D,230-3834,BLM21_N1D Series EMI Suppression Filter 1000+/-25% at 100MHz 250mA @85
+PRGM,1,CONN_SIL_5,DSC,,,669-5323,5 way Pin Header
+C16,1,EEEFK1C101AP,FKV(D),Panasonic,EEEFK1C101AP,565-695,Aluminum Electrolytic Capacitors - SMD 100UF 16V FK SMD
+IC4,1,ENC28J60-I_SO,SOIC127P1030X265-28N,Microchip,ENC28J60-I/SO,698-8987,"Ethernet Controller, 8 KB RAM, MAC&PHY"
+5V,1,LED,DSC,Bivar,5SYD,906-6197,Light Em Di
+3V,1,LED,DSC,,,906-6197,Light Em Di
+IC2,1,LM1117IMPX3.3_NOPB,SOT230P700X180-4N,Texas Instruments,LM1117IMPX3.3/NOPB,823-4434,Space Saving 800mA Low-Dropout Linear Regulator with Internal Current Limit 4-SOT-223 -40 to 125
+PIC32,1,PIC32MX170F256B-50I_SO,SOIC127P1030X265-28N,Microchip,PIC32MX170F256B-50I/SO,9163762P,"Microchip PIC32MX170F256B-50I/SO, 32bit Microcontroller, 50MHz, 256 + 3 kB Flash, 28-Pin SOIC"
+R14,1,R 0.1W SMTF 1.0K,SM0805,,,804-6449,Thick Film Surface Mount Resistor
+R15,1,R 0.1W SMTF 1.0K,SM0805,,,804-6449,Thick Film Surface Mount Resistor
+R16,1,R 0.1W SMTF 1.0K,SM0805,,,804-6449,Thick Film Surface Mount Resistor
+R17,1,R 0.1W SMTF 1.0K,SM0805,,,804-6449,Thick Film Surface Mount Resistor
+R18,1,R 0.1W SMTF 1.0K,SM0805,,,804-6449,Thick Film Surface Mount Resistor
+R9,1,R 0.1W SMTF 2.7K,SM0805,,,566-484,Thick Film Surface Mount Resistor
+R2,1,R 0.1W SMTF 3.3K,SM0805,,,866-7424,Thick Film Surface Mount Resistor
+R1,1,R 0.1W SMTF 10K,SM0805,,,740-9224,Thick Film Surface Mount Resistor
+R3,1,R 0.1W SMTF 10K,SM0805,,,741-9224,Thick Film Surface Mount Resistor
+R4,1,R 0.1W SMTF 10K,SM0805,,,741-9224,Thick Film Surface Mount Resistor
+R5,1,R 0.1W SMTF 10K,SM0805,,,741-9224,Thick Film Surface Mount Resistor
+R10,1,R 0.1W SMTF 47,SM0805,,,828-0702,Thick Film Surface Mount Resistor
+R11,1,R 0.1W SMTF 47,SM0805,,,828-0702,Thick Film Surface Mount Resistor
+R12,1,R 0.1W SMTF 47,SM0805,,,828-0702,Thick Film Surface Mount Resistor
+R13,1,R 0.1W SMTF 47,SM0805,,,828-0702,Thick Film Surface Mount Resistor
+R6,1,R 0.1W SMTF 100,SM0805,,,866-7279,Thick Film Surface Mount Resistor
+R7,1,R 0.1W SMTF 100,SM0805,,,866-7279,Thick Film Surface Mount Resistor
+R8,1,R 0.1W SMTF 100,SM0805,,,866-7279,Thick Film Surface Mount Resistor
+F1,1,RKEF075,RKEF075,LITTELFUSE,RKEF075,712-7480,"Littelfuse 0.75A Radial Leaded PCB Mount Resettable Fuse, 60V"
+L1,1,RLF12560T-100M7R5-PF,INDPM125128X600N,TDK,RLF12560T-100M7R5-PF,741-3267,TDK RLF12560 Series Shielded Wire-wound SMD Inductor 10 uH +/-20% 7.8A Idc
+D1,1,SBRD10200TR,SMC_DPAK,SMC Diode Solutions,SBRD10200TR,180-7316,SCHOTTKY RECTIFIER
+D4,1,SMBJ6.5CA-Q,DIONM5436X244N,Bourns,SMBJ6.5CA-Q,699-8085,"SMBJ-Q Transient Voltage Suppressor Diode Series, Bi-Directional"
+D5,1,SMBJ36CA,DIONM5336X245N,ON Semiconductor,SMBJ36CA,802-2332,"Diode, Fairchild, SMBJ36CA Fairchild SMBJ36CA, Bi-Directional TVS Diode, 600W, 2-Pin DO-214AA"
+C6,1,TCJA106M016R0200,CAPPM3216X180N,AVX,TCJA106M016R0200,144-2523,AVX Electrolytic Capacitor 10F 16V dc Polymer Solid +/-20% Tolerance TCJ Series
+C13,1,TCJA106M016R0200,CAPPM3216X180N,AVX,TCJA106M016R0200,144-1494,AVX Electrolytic Capacitor 10F 16V dc Polymer Solid +/-20% Tolerance TCJ Series
+C18,1,TCJA106M016R0200,CAPPM3216X180N,AVX,TCJA106M016R0200,144-1494,AVX Electrolytic Capacitor 10F 16V dc Polymer Solid +/-20% Tolerance TCJ Series
+RST,1,TL1105CF160Q,TL1105CF160Q,E-Switch,TL1105CF160Q,479-1413,Tactile Switches 6X6X8MM 160GF
+IC1,1,TPS5450DDAR,SOIC127P600X170-9N,Texas Instruments,TPS5450DDAR,8256848P,"Texas Instruments, TPS5450DDAR Step-Down Switching Regulator 5A Adjustable, 1.22  31 V, 8-Pin SOIC"
