@@ -1,70 +1,9 @@
 .HEADER
-LIBRARY_FILE 3.0 "DesignSpark PCB 9.0" 2021/01/29.13:30:26 1
+LIBRARY_FILE 3.0 "DesignSpark PCB 10.0" 2021/07/04.08:41:42 1
 .END_HEADER
 
 .ELECTRICAL
-"SOIC127P600X170-9N" "TPS5450DDAR" MM 1.95
-1 -3.73 2.75 0
-1 3.73 2.75 0
-1 3.73 -2.75 0
-1 -3.73 -2.75 0
-1 -3.73 2.75 0
-PROP "RS Part Number" "8256848P"
-PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/8256848P"
-PROP "Manufacturer_Name" "Texas Instruments"
-PROP "Manufacturer_Part_Number" "TPS5450DDAR"
-PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/8256848P"
-PROP "Height" "1.7 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"CAPAE1030X1270N" "50SVPF68M" MM 12.70
-1 -6.83 5.75 0
-1 6.83 5.75 0
-1 6.83 -5.75 0
-1 -6.83 -5.75 0
-1 -6.83 5.75 0
-PROP "RS Part Number" "7955421P"
-PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/7955421P"
-PROP "Manufacturer_Name" "Panasonic"
-PROP "Manufacturer_Part_Number" "50SVPF68M"
-PROP "Allied_Number" "70324325"
-PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/7955421P"
-PROP "Height" "12.7 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SMC_DPAK" "SBRD10200TR" MM 6.35
-1 -10.57 -3.40 0
-1 1.24 -3.40 0
-1 1.24 3.40 0
-1 -10.57 3.40 0
-1 -10.57 -3.40 0
-PROP "Manufacturer_Name" "SMC Diode Solutions"
-PROP "Manufacturer_Part_Number" "SBRD10200TR"
-PROP "Datasheet Link" "http://www.smc-diodes.com/propdf/SBRD10200%20N1314%20REV.A.pdf"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SM0805" "R 0.1W SMTF 10K" MM 0.60
-1 -0.89 1.73 0
-1 0.89 1.73 0
-1 0.89 -1.73 0
-1 -0.89 -1.73 0
-1 -0.89 1.73 0
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SM0805" "R 0.1W SMTF 3.3K" MM 0.60
-1 -0.89 1.73 0
-1 0.89 1.73 0
-1 0.89 -1.73 0
-1 -0.89 -1.73 0
-1 -0.89 1.73 0
-.END_ELECTRICAL
-
-.ELECTRICAL
-"CAPPM3528X200N" "6TPE220MAZB" MM 2.00
+"CAPPM3528X200N" "6TPE220MAZB" MM 0.00
 1 -2.63 1.75 0
 1 2.63 1.75 0
 1 2.63 -1.75 0
@@ -80,23 +19,7 @@ PROP "Height" "2 mm"
 .END_ELECTRICAL
 
 .ELECTRICAL
-"SHDR4W100P0X508_1X4_2132X1200X" "1869237" MM 11.00
-1 -3.29 -6.25 0
-1 -3.29 6.25 0
-1 18.53 6.25 0
-1 18.53 -6.25 0
-1 -3.29 -6.25 0
-PROP "RS Part Number" "8044979"
-PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/8044979"
-PROP "Manufacturer_Name" "Phoenix Contact"
-PROP "Manufacturer_Part_Number" "1869237"
-PROP "Allied_Number" "70054401"
-PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/8044979"
-PROP "Height" "11 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SOT230P700X180-4N" "LM1117IMPX3.3_NOPB" MM 1.90
+"SOT230P700X180-4N" "LM1117IMPX3.3_NOPB" MM 0.00
 1 -4.28 3.60 0
 1 4.28 3.60 0
 1 4.28 -3.60 0
@@ -109,37 +32,7 @@ PROP "Height" "1.8 mm"
 .END_ELECTRICAL
 
 .ELECTRICAL
-"SOIC127P1030X265-28N" "PIC32MX170F256B-50I_SO" MM 2.90
-1 -5.85 9.20 0
-1 5.85 9.20 0
-1 5.85 -9.20 0
-1 -5.85 -9.20 0
-1 -5.85 9.20 0
-PROP "RS Part Number" "9163762P"
-PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/9163762P"
-PROP "Manufacturer_Name" "Microchip"
-PROP "Manufacturer_Part_Number" "PIC32MX170F256B-50I/SO"
-PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/9163762P"
-PROP "Height" "2.65 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"61201621721" "61201621721" MM 9.10
-1 -5.60 13.73 0
-1 23.38 13.73 0
-1 23.38 -1.40 0
-1 -5.60 -1.40 0
-1 -5.60 13.73 0
-PROP "RS Part Number" "7718367"
-PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/7718367"
-PROP "Manufacturer_Name" "Wurth Elektronik"
-PROP "Manufacturer_Part_Number" "61201621721"
-PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/7718367"
-PROP "Height" "9.1 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"TL1105CF160Q" "TL1105CF160Q" MM 8.00
+"TL1105CF160Q" "TL1105CF160Q" MM 0.00
 1 -5.00 4.00 0
 1 5.00 4.00 0
 1 5.00 -4.00 0
@@ -152,42 +45,7 @@ PROP "Height" "8 mm"
 .END_ELECTRICAL
 
 .ELECTRICAL
-"SM0805" "R 0.1W SMTF 100" MM 0.60
-1 -0.89 1.73 0
-1 0.89 1.73 0
-1 0.89 -1.73 0
-1 -0.89 -1.73 0
-1 -0.89 1.73 0
-.END_ELECTRICAL
-
-.ELECTRICAL
-"FKV(D)" "EEEFK1C101AP" MM 6.35
-1 -4.72 -3.43 0
-1 4.08 -3.43 0
-1 4.08 3.43 0
-1 -4.72 3.43 0
-1 -4.72 -3.43 0
-PROP "Manufacturer_Name" "Panasonic"
-PROP "Manufacturer_Part_Number" "EEEFK1C101AP"
-PROP "Datasheet Link" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1175.pdf"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SODFL4626X110N" "1N4007F" MM 1.10
-1 -2.81 1.50 0
-1 2.81 1.50 0
-1 2.81 -1.50 0
-1 -2.81 -1.50 0
-1 -2.81 1.50 0
-PROP "Manufacturer_Name" "Shikues"
-PROP "Manufacturer_Part_Number" "1N4007F"
-PROP "Arrow Part Number" "1N4007F"
-PROP "Datasheet Link" "https://datasheet.lcsc.com/szlcsc/SK-1N4007F_C110856.pdf"
-PROP "Height" "1.1 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"INDPM125128X600N" "RLF12560T-100M7R5-PF" MM 6.00
+"INDPM125128X600N" "RLF12560T-100M7R5-PF" MM 0.00
 1 -7.08 6.65 0
 1 7.08 6.65 0
 1 7.08 -6.65 0
@@ -200,208 +58,7 @@ PROP "Height" "6 mm"
 .END_ELECTRICAL
 
 .ELECTRICAL
-"C0805" "08055C103KATDA" MM 0.60
-0 -2.03 -0.89 0
-0 2.03 -0.89 0
-0 2.03 0.89 0
-0 -2.03 0.89 0
-0 -2.03 -0.89 0
-PROP "Mfr" "AVX"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"C0805" "08055C104KATDA" MM 0.60
-0 -2.03 -0.89 0
-0 2.03 -0.89 0
-0 2.03 0.89 0
-0 -2.03 0.89 0
-0 -2.03 -0.89 0
-PROP "Mfr" "AVX"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"CAPPM3216X180N" "TCJA106M016R0200" MM 1.80
-1 -2.45 1.15 0
-1 2.45 1.15 0
-1 2.45 -1.15 0
-1 -2.45 -1.15 0
-1 -2.45 1.15 0
-PROP "Manufacturer_Name" "AVX"
-PROP "Manufacturer_Part_Number" "TCJA106M016R0200"
-PROP "Arrow Part Number" "TCJA106M016R0200"
-PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/tcja106m016r0200/avx"
-PROP "Mouser Part Number" "581-TCJA106M16R200"
-PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/AVX/TCJA106M016R0200?qs=%252BXAg%2Fou%2FU05AFHzrtQIRQg%3D%3D"
-PROP "Datasheet Link" "http://datasheets.avx.com/TCJ.pdf"
-PROP "Height" "1.8 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"23019949" "2301994-9" MM 13.00
-1 -10.05 11.60 0
-1 10.05 11.60 0
-1 10.05 -11.75 0
-1 -10.05 -11.75 0
-1 -10.05 11.60 0
-PROP "Manufacturer_Name" "TE Connectivity"
-PROP "Manufacturer_Part_Number" "2301994-9"
-PROP "Arrow Part Number" "2301994-9"
-PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/2301994-9/te-connectivity"
-PROP "Mouser Part Number" "571-2301994-9"
-PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2301994-9?qs=gt1LBUVyoHmjiIrQISW2TA%3D%3D"
-PROP "Datasheet Link" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2301994-9&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=2301994-9"
-PROP "Height" "13 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SM0805" "R 0.1W SMTF 2.7K" MM 0.60
-1 -0.89 1.73 0
-1 0.89 1.73 0
-1 0.89 -1.73 0
-1 -0.89 -1.73 0
-1 -0.89 1.73 0
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SM0805" "R 0.1W SMTF 47" MM 0.60
-1 -0.89 1.73 0
-1 0.89 1.73 0
-1 0.89 -1.73 0
-1 -0.89 -1.73 0
-1 -0.89 1.73 0
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SM0805" "R 0.1W SMTF 1.0K" MM 0.60
-1 -0.89 1.73 0
-1 0.89 1.73 0
-1 0.89 -1.73 0
-1 -0.89 -1.73 0
-1 -0.89 1.73 0
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SM0805" "08051A220JATDA" MM 0.60
-1 -0.89 1.73 0
-1 0.89 1.73 0
-1 0.89 -1.73 0
-1 -0.89 -1.73 0
-1 -0.89 1.73 0
-PROP "Mfr" "AVX"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"BLM21BB050SH1D_250_100Mhz_0805" "BLM21BB050SH1D_250_100Mhz_0805" MM 1.05
-1 -2.20 1.63 0
-1 2.20 1.63 0
-1 2.20 -1.63 0
-1 -2.20 -1.63 0
-1 -2.20 1.63 0
-PROP "Manufacturer_Name" "Murata Electronics"
-PROP "Manufacturer_Part_Number" "BLM21BD102SN1D"
-PROP "Arrow Part Number" "BLM21BD102SN1D"
-PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/blm21bd102sn1d/murata-manufacturing"
-PROP "Mouser Part Number" "81-BLM21B102S"
-PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM21BD102SN1D?qs=SsukgLyLLEeY%252Bx0h1h0Bsw%3D%3D"
-PROP "Datasheet Link" "https://www.murata.com/en-us/products/productdetail?partno=BLM21BD102SN1%23"
-PROP "Height" "1.05 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"ABM3B" "ABM3B-8.000MHZ-10-1-U-T" MM 6.35
-1 -2.90 -2.29 0
-1 2.90 -2.29 0
-1 2.90 1.80 0
-1 -2.90 1.80 0
-1 -2.90 -2.29 0
-PROP "Manufacturer_Name" "ABRACON"
-PROP "Manufacturer_Part_Number" "ABM3B-8.000MHZ-10-1-U-T"
-PROP "Arrow Part Number" "ABM3B-8.000MHZ-10-1-U-T"
-PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/abm3b-8.000mhz-10-1-u-t/abracon"
-PROP "Mouser Part Number" "815-ABM3B8MHZ101UT"
-PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ABRACON/ABM3B-8000MHZ-10-1-U-T?qs=axzvp2Rdp5%252B1td01iPkwcw%3D%3D"
-PROP "Datasheet Link" "https://abracon.com/Resonators/abm3b.pdf"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"C0805" "08055C222KATDA" MM 0.60
-0 -2.03 -0.89 0
-0 2.03 -0.89 0
-0 2.03 0.89 0
-0 -2.03 0.89 0
-0 -2.03 -0.89 0
-PROP "Mfr" "AVX"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"DIONM5436X244N" "SMBJ6.5CA-Q" MM 2.44
-1 -3.55 2.22 0
-1 3.55 2.22 0
-1 3.55 -2.22 0
-1 -3.55 -2.22 0
-1 -3.55 2.22 0
-PROP "Manufacturer_Name" "Bourns"
-PROP "Manufacturer_Part_Number" "SMBJ6.5CA-Q"
-PROP "Datasheet Link" "https://www.bourns.com/docs/Product-Datasheets/SMBJ-Q.pdf"
-PROP "Height" "2.44 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"5" "CONN_SIL_5" MM 7.50
-0 -1.27 1.27 0
-0 -1.27 -11.43 0
-0 1.27 -11.43 0
-0 1.27 1.27 0
-0 -1.27 1.27 0
-.END_ELECTRICAL
-
-.ELECTRICAL
-"RKEF075" "RKEF075" MM 12.20
-1 -2.40 2.78 0
-1 7.47 2.78 0
-1 7.47 -2.78 0
-1 -2.40 -2.78 0
-1 -2.40 2.78 0
-PROP "Manufacturer_Name" "LITTELFUSE"
-PROP "Manufacturer_Part_Number" "RKEF075"
-PROP "Mouser Part Number" "650-RKEF075"
-PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/RKEF075?qs=2eXtorxHpEKkj5l5%2F%2FDO7g%3D%3D"
-PROP "Arrow Part Number" "RKEF075"
-PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/rkef075/littelfuse"
-PROP "Datasheet Link" "https://www.littelfuse.com/~/media/electronics/product_specifications/resettable_ptcs/littelfuse_ptc_rkef075_product_specification.pdf.pdf"
-PROP "Height" "12.2 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"LEDT175" "LED" MM 5.50
-0 -2.79 -1.27 0
-0 0.00 -4.06 90
-0 2.79 -1.27 90
-0 1.70 1.35 45
-0 -1.70 1.35 0
-0 -2.79 -1.27 45
-PROP "Value" "LED 5MM RED"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"SOIC127P1030X265-28N" "ENC28J60-I_SO" MM 2.90
-1 -5.85 9.20 0
-1 5.85 9.20 0
-1 5.85 -9.20 0
-1 -5.85 -9.20 0
-1 -5.85 9.20 0
-PROP "Manufacturer_Name" "Microchip"
-PROP "Manufacturer_Part_Number" "ENC28J60-I/SO"
-PROP "Mouser Part Number" "579-ENC28J60-I/SO"
-PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ENC28J60-I-SO?qs=8nGS%2FuaWW3uX0KPZZN505g%3D%3D"
-PROP "Arrow Part Number" "ENC28J60-I/SO"
-PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/enc28j60-iso/microchip-technology"
-PROP "Datasheet Link" "http://ww1.microchip.com/downloads/en/DeviceDoc/39662e.pdf"
-PROP "Height" "2.65 mm"
-.END_ELECTRICAL
-
-.ELECTRICAL
-"1" "1WP" MM 7.50
+"1" "1WP" MM 0.00
 0 -1.27 1.27 0
 0 -1.27 -1.27 0
 0 1.27 -1.27 0
@@ -410,7 +67,7 @@ PROP "Height" "2.65 mm"
 .END_ELECTRICAL
 
 .ELECTRICAL
-"ABM3B" "ABM3B-25.000MHZ-10-1-U-T" MM 6.35
+"ABM3B" "ABM3B-25.000MHZ-10-1-U-T" MM 0.00
 1 -2.90 -2.29 0
 1 2.90 -2.29 0
 1 2.90 1.80 0
@@ -427,7 +84,7 @@ PROP "Datasheet Link" "https://abracon.com/Resonators/abm3b.pdf"
 .END_ELECTRICAL
 
 .ELECTRICAL
-"DIONM5336X245N" "SMBJ36CA" MM 2.45
+"DIONM5336X245N" "SMBJ36CA" MM 0.00
 1 -3.55 2.23 0
 1 3.55 2.23 0
 1 3.55 -2.23 0
@@ -445,11 +102,459 @@ PROP "Height" "2.45 mm"
 .END_ELECTRICAL
 
 .ELECTRICAL
-"Fiducial" "Fiducial" MM 6.35
+"SMC_DPAK" "SBRD10200TR" MM 0.00
+1 6.99 4.37 0
+1 6.99 -4.37 0
+1 -6.99 -4.37 0
+1 -6.99 4.37 0
+1 6.99 4.37 0
+PROP "RS Part Number" "180-7316"
+PROP "Manufacturer_Name" "SMC Diode Solutions"
+PROP "Manufacturer_Part_Number" "SBRD10200TR"
+PROP "Datasheet Link" "http://www.smc-diodes.com/propdf/SBRD10200%20N1314%20REV.A.pdf"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"CAPAE1030X1270N" "50SVPF68M" MM 0.00
+1 -6.83 5.75 0
+1 6.83 5.75 0
+1 6.83 -5.75 0
+1 -6.83 -5.75 0
+1 -6.83 5.75 0
+PROP "RS Part Number" "7955421P"
+PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/7955421P"
+PROP "Manufacturer_Name" "Panasonic"
+PROP "Manufacturer_Part_Number" "50SVPF68M"
+PROP "Allied_Number" "70324325"
+PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/7955421P"
+PROP "Height" "12.7 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SHDR4W100P0X508_1X4_2132X1200X" "1869237" MM 0.00
+1 -3.29 -6.25 0
+1 -3.29 6.25 0
+1 18.53 6.25 0
+1 18.53 -6.25 0
+1 -3.29 -6.25 0
+PROP "RS Part Number" "8044979"
+PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/8044979"
+PROP "Manufacturer_Name" "Phoenix Contact"
+PROP "Manufacturer_Part_Number" "1869237"
+PROP "Allied_Number" "70054401"
+PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/8044979"
+PROP "Height" "11 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SOIC127P1030X265-28N" "PIC32MX170F256B-50I_SO" MM 0.00
+1 -5.85 9.20 0
+1 5.85 9.20 0
+1 5.85 -9.20 0
+1 -5.85 -9.20 0
+1 -5.85 9.20 0
+PROP "Manufacturer_Name" "Microchip"
+PROP "Manufacturer_Part_Number" "PIC32MX170F256B-50I/SO"
+PROP "Arrow Part Number" "PIC32MX170F256B-50I/SO"
+PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/pic32mx170f256b-50iso/microchip-technology"
+PROP "Mouser Part Number" "579-32MX170F256B5ISO"
+PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC32MX170F256B-50I-SO?qs=PQDAUpz3sUOJIoRAKETOTQ%3D%3D"
+PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/9163762"
+PROP "Height" "2.65 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"61201621721" "61201621721" MM 0.00
+1 -5.60 5.71 0
+1 23.38 5.71 0
+1 23.38 -3.17 0
+1 -5.60 -3.17 0
+1 -5.60 5.71 0
+PROP "RS Part Number" "7718367"
+PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/7718367"
+PROP "Manufacturer_Name" "Wurth Elektronik"
+PROP "Manufacturer_Part_Number" "61201621721"
+PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/7718367"
+PROP "Height" "9.1 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"FKV(D)" "EEEFK1C101AP" MM 0.00
+1 -4.72 -3.43 0
+1 4.08 -3.43 0
+1 4.08 3.43 0
+1 -4.72 3.43 0
+1 -4.72 -3.43 0
+PROP "RS Part Number" "565-695"
+PROP "Manufacturer_Name" "Panasonic"
+PROP "Manufacturer_Part_Number" "EEEFK1C101AP"
+PROP "Datasheet Link" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1175.pdf"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SODFL4626X110N" "1N4007F" MM 0.00
+1 -2.81 1.50 0
+1 2.81 1.50 0
+1 2.81 -1.50 0
+1 -2.81 -1.50 0
+1 -2.81 1.50 0
+PROP "RS Part Number" "124-6806"
+PROP "Manufacturer_Name" "Shikues"
+PROP "Manufacturer_Part_Number" "1N4007F"
+PROP "Arrow Part Number" "1N4007F"
+PROP "Datasheet Link" "https://datasheet.lcsc.com/szlcsc/SK-1N4007F_C110856.pdf"
+PROP "Height" "1.1 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"CAPPM3216X180N" "TCJA106M016R0200" MM 0.00
+1 -2.45 1.15 0
+1 2.45 1.15 0
+1 2.45 -1.15 0
+1 -2.45 -1.15 0
+1 -2.45 1.15 0
+PROP "RS Part Number" "144-2523"
+PROP "Manufacturer_Name" "AVX"
+PROP "Manufacturer_Part_Number" "TCJA106M016R0200"
+PROP "Arrow Part Number" "TCJA106M016R0200"
+PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/tcja106m016r0200/avx"
+PROP "Mouser Part Number" "581-TCJA106M16R200"
+PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/AVX/TCJA106M016R0200?qs=%252BXAg%2Fou%2FU05AFHzrtQIRQg%3D%3D"
+PROP "Datasheet Link" "http://datasheets.avx.com/TCJ.pdf"
+PROP "Height" "1.8 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"23019949" "2301994-9" MM 0.00
+1 -10.05 11.60 0
+1 10.05 11.60 0
+1 10.05 -11.75 0
+1 -10.05 -11.75 0
+1 -10.05 11.60 0
+PROP "RS Part Number" "144-3327"
+PROP "Manufacturer_Name" "TE Connectivity"
+PROP "Manufacturer_Part_Number" "2301994-9"
+PROP "Arrow Part Number" "2301994-9"
+PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/2301994-9/te-connectivity"
+PROP "Mouser Part Number" "571-2301994-9"
+PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2301994-9?qs=gt1LBUVyoHmjiIrQISW2TA%3D%3D"
+PROP "Datasheet Link" "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2301994-9&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=2301994-9"
+PROP "Height" "13 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"ABM3B" "ABM3B-8.000MHZ-10-1-U-T" MM 0.00
+1 -2.90 -2.29 0
+1 2.90 -2.29 0
+1 2.90 1.80 0
+1 -2.90 1.80 0
+1 -2.90 -2.29 0
+PROP "RS Part Number" "171-2700"
+PROP "Manufacturer_Name" "ABRACON"
+PROP "Manufacturer_Part_Number" "ABM3B-8.000MHZ-10-1-U-T"
+PROP "Arrow Part Number" "ABM3B-8.000MHZ-10-1-U-T"
+PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/abm3b-8.000mhz-10-1-u-t/abracon"
+PROP "Mouser Part Number" "815-ABM3B8MHZ101UT"
+PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ABRACON/ABM3B-8000MHZ-10-1-U-T?qs=axzvp2Rdp5%252B1td01iPkwcw%3D%3D"
+PROP "Datasheet Link" "https://abracon.com/Resonators/abm3b.pdf"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"DIONM5436X244N" "SMBJ6.5CA-Q" MM 0.00
+1 -3.55 2.22 0
+1 3.55 2.22 0
+1 3.55 -2.22 0
+1 -3.55 -2.22 0
+1 -3.55 2.22 0
+PROP "RS Part Number" "699-8085"
+PROP "Manufacturer_Name" "Bourns"
+PROP "Manufacturer_Part_Number" "SMBJ6.5CA-Q"
+PROP "Datasheet Link" "https://www.bourns.com/docs/Product-Datasheets/SMBJ-Q.pdf"
+PROP "Height" "2.44 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SOIC127P1030X265-28N" "ENC28J60-I_SO" MM 0.00
+1 -5.85 9.20 0
+1 5.85 9.20 0
+1 5.85 -9.20 0
+1 -5.85 -9.20 0
+1 -5.85 9.20 0
+PROP "RS Part Number" "698-8987"
+PROP "Manufacturer_Name" "Microchip"
+PROP "Manufacturer_Part_Number" "ENC28J60-I/SO"
+PROP "Mouser Part Number" "579-ENC28J60-I/SO"
+PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ENC28J60-I-SO?qs=8nGS%2FuaWW3uX0KPZZN505g%3D%3D"
+PROP "Arrow Part Number" "ENC28J60-I/SO"
+PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/enc28j60-iso/microchip-technology"
+PROP "Datasheet Link" "http://ww1.microchip.com/downloads/en/DeviceDoc/39662e.pdf"
+PROP "Height" "2.65 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"Fiducial" "Fiducial" MM 0.00
 1 0.00 -5.25 0
 1 5.00 -5.25 0
 1 5.00 -0.25 0
 1 0.00 -0.25 0
 1 0.00 -5.25 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 0" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"BLM21BB050SH1D" "BLM21BD102SN1D_250_100Mhz_0805" MM 0.00
+1 -1.55 -0.76 0
+1 1.50 -0.76 0
+1 1.50 0.76 0
+1 -1.55 0.76 0
+1 -1.55 -0.76 0
+PROP "Manufacturer_Name" "Murata Electronics"
+PROP "Manufacturer_Part_Number" "BLM21BD102SN1D"
+PROP "Arrow Part Number" "BLM21BD102SN1D"
+PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/blm21bd102sn1d/murata-manufacturing"
+PROP "Mouser Part Number" "81-BLM21B102S"
+PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM21BD102SN1D?qs=SsukgLyLLEeY%252Bx0h1h0Bsw%3D%3D"
+PROP "Datasheet Link" "https://www.murata.com/en-us/products/productdetail?partno=BLM21BD102SN1%23"
+PROP "Height" "1.05 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SOIC127P600X175-8N" "SN75HVD12DR" MM 0.00
+1 -1.60 2.45 0
+1 1.60 2.45 0
+1 1.60 -2.45 0
+1 -1.60 -2.45 0
+1 -1.60 2.45 0
+PROP "Manufacturer_Name" "Texas Instruments"
+PROP "Manufacturer_Part_Number" "SN75HVD12DR"
+PROP "Datasheet Link" "http://www.ti.com/lit/gpn/sn75hvd12"
+PROP "Height" "1.75 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"1890963" "1890963" MM 0.00
+1 -2.50 4.75 0
+1 7.50 4.75 0
+1 7.50 -4.75 0
+1 -2.50 -4.75 0
+1 -2.50 4.75 0
+PROP "RS Part Number" "8045118"
+PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/8045118"
+PROP "Manufacturer_Name" "Phoenix Contact"
+PROP "Manufacturer_Part_Number" "1890963"
+PROP "Allied_Number" "70054391"
+PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/8045118"
+PROP "Height" "15.15 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 4.7K" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"2" "2WP" MM 0.00
+0 -1.27 1.27 0
+0 -1.27 -3.81 0
+0 1.27 -3.81 0
+0 1.27 1.27 0
+0 -1.27 1.27 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 120" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"RKEF075" "RKEF075" MM 0.00
+1 -1.40 1.78 0
+1 6.47 1.78 0
+1 6.47 -1.78 0
+1 -1.40 -1.78 0
+1 -1.40 1.78 0
+PROP "Manufacturer_Name" "LITTELFUSE"
+PROP "Manufacturer_Part_Number" "RKEF075"
+PROP "Mouser Part Number" "650-RKEF075"
+PROP "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/RKEF075?qs=2eXtorxHpEKkj5l5%2F%2FDO7g%3D%3D"
+PROP "Arrow Part Number" "RKEF075"
+PROP "Arrow Price/Stock" "https://www.arrow.com/en/products/rkef075/littelfuse"
+PROP "Datasheet Link" "https://www.littelfuse.com/~/media/electronics/product_specifications/resettable_ptcs/littelfuse_ptc_rkef075_product_specification.pdf.pdf"
+PROP "Height" "12.2 mm"
+PROP "3D Package" "RKEF075"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 47" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"C0805" "08055C103KATDA" MM 0.00
+0 -2.03 -0.89 0
+0 2.03 -0.89 0
+0 2.03 0.89 0
+0 -2.03 0.89 0
+0 -2.03 -0.89 0
+PROP "Mfr" "AVX"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 10K" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 3.3K" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 100" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"C0805" "08055C104KATDA" MM 0.00
+0 -2.03 -0.89 0
+0 2.03 -0.89 0
+0 2.03 0.89 0
+0 -2.03 0.89 0
+0 -2.03 -0.89 0
+PROP "Mfr" "AVX"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 2.7K" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "R 0.1W SMTF 1.0K" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SM0805" "08051A220JATDA" MM 0.00
+1 -0.89 1.73 0
+1 0.89 1.73 0
+1 0.89 -1.73 0
+1 -0.89 -1.73 0
+1 -0.89 1.73 0
+PROP "Mfr" "AVX"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"C0805" "08055C222KATDA" MM 0.00
+0 -2.03 -0.89 0
+0 2.03 -0.89 0
+0 2.03 0.89 0
+0 -2.03 0.89 0
+0 -2.03 -0.89 0
+PROP "Mfr" "AVX"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"5" "CONN_SIL_5" MM 0.00
+0 -1.27 1.27 0
+0 -1.27 -11.43 0
+0 1.27 -11.43 0
+0 1.27 1.27 0
+0 -1.27 1.27 0
+.END_ELECTRICAL
+
+.ELECTRICAL
+"LEDT175" "LED" MM 0.00
+0 -2.79 -1.27 0
+0 0.00 -4.06 90
+0 2.79 -1.27 90
+0 1.70 1.35 45
+0 -1.70 1.35 0
+0 -2.79 -1.27 45
+PROP "Value" "LED 5MM RED"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SOT95P230X117-3N" "CDSOT23-SM712" MM 0.00
+1 -0.03 1.45 0
+1 0.03 1.45 0
+1 0.03 -1.45 0
+1 -0.03 -1.45 0
+1 -0.03 1.45 0
+PROP "RS Part Number" "7673728P"
+PROP "Allied_Number" "70154680"
+PROP "Manufacturer_Name" "Bourns"
+PROP "Manufacturer_Part_Number" "CDSOT23-SM712"
+PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/7673728P"
+PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/7673728P"
+PROP "Height" "1.17 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"RUEF300" "RUEF300" MM 0.00
+1 -3.17 1.50 0
+1 8.22 1.50 0
+1 8.22 -1.50 0
+1 -3.17 -1.50 0
+1 -3.17 1.50 0
+PROP "RS Part Number" "5176821P"
+PROP "RS Price/Stock" "http://uk.rs-online.com/web/p/products/5176821P"
+PROP "Manufacturer_Name" "LITTELFUSE"
+PROP "Manufacturer_Part_Number" "RUEF300"
+PROP "Datasheet Link" "http://uk.rs-online.com/web/p/products/5176821P"
+PROP "Height" "16.5 mm"
+.END_ELECTRICAL
+
+.ELECTRICAL
+"SOIC127P600X170-9N" "TPS5450DDAG4" MM 0.00
+1 -3.73 2.75 0
+1 3.73 2.75 0
+1 3.73 -2.75 0
+1 -3.73 -2.75 0
+1 -3.73 2.75 0
+PROP "Manufacturer_Name" "Texas Instruments"
+PROP "Manufacturer_Part_Number" "TPS5450DDAG4"
+PROP "Datasheet Link" "https://www.ti.com/lit/ds/symlink/tps5450.pdf?ts=1619175597336&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTPS5450DDA"
+PROP "Height" "1.7 mm"
 .END_ELECTRICAL
 
